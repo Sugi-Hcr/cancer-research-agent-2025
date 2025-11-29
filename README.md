@@ -2,9 +2,19 @@
 
 Multi-agent AI system for evidence-based cancer treatment recommendations with physician oversight.
 
-![Dashboard](outputs/screenshot_dashboard.png)
+![Dashboard Screenshot](outputs/screenshot_dashboard.png)
 
 *Interactive dashboard showing real-time literature search, survival analysis, and clinical decision support with physician approval workflow.*
+
+---
+
+## Demo
+
+Watch a 37-second walkthrough of the complete clinical workflow:
+
+![System Demo](outputs/demo.gif)
+
+*The demo shows: query building, literature search, Kaplan-Meier survival analysis, GRADE-based recommendations, and physician approval.*
 
 ---
 
@@ -89,11 +99,14 @@ See [ARCHITECTURE.md](ARCHITECTURE.md) for detailed system design.
 
 ![Survival Curve](outputs/figures/km_survival_analysis.png)
 
+*Comparison of pembrolizumab vs nivolumab in advanced melanoma showing statistically significant survival benefit (p=0.0083).*
+
 **Clinical Decision Report:**
-- Recommendation: Pembrolizumab preferred over nivolumab as first-line therapy
-- Median OS Benefit: +22 months
-- Adverse Event Risk: Grade 3-4 irAE 18%
-- Evidence Level: Strong (GRADE 1A)
+- **Recommendation**: Pembrolizumab preferred over nivolumab as first-line therapy
+- **Median OS Benefit**: +22 months
+- **Adverse Event Risk**: Grade 3-4 irAE 18%
+- **Evidence Level**: Strong (GRADE 1A)
+- **Physician Decision**: Approved
 
 ---
 
@@ -212,8 +225,8 @@ This project was developed for the **Kaggle AI Agents Intensive Capstone Project
 5. **Observability**: Comprehensive logging throughout the system
 
 ### Submission Details
-- **GitHub Repository**: [Link](https://github.com/foroughm423/cancer-research-agent-2025)
-- **Documentation**: README + ARCHITECTURE
+- **GitHub Repository**: [cancer-research-agent-2025](https://github.com/foroughm423/cancer-research-agent-2025)
+- **Documentation**: README + ARCHITECTURE with detailed system design
 - **Code Quality**: Comprehensive inline comments, modular design
 - **Deployment**: Fully functional local execution with Streamlit UI
 
@@ -241,23 +254,6 @@ This project was developed for the **Kaggle AI Agents Intensive Capstone Project
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for full terms.
-```
-MIT License
-
-Copyright (c) 2025 YOUR_NAME
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
-```
 
 ---
 
